@@ -23,6 +23,6 @@ This is my first static website hosted on **Amazon S3** and delivered via **Clou
 - How to speed up content delivery with CloudFront
 - How to write a professional README on GitHub
 
-## 📸 Screenshot
+## 📸 URL
+https://myportfolio-hajime.s3.ap-southeast-2.amazonaws.com/index.html
 
-![screenshot](https://your-screenshot-link.com)
