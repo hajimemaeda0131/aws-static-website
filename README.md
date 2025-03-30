@@ -15,9 +15,6 @@ This is my first static website hosted on **Amazon S3** and delivered via **Clou
 - `index.html` – Main HTML file
 - `README.md` – Project description (this file)
 
-## 🌐 Live Demo
-
-Hosted URL: [https://your-cloudfront-url.com](https://your-cloudfront-url.com)
 
 ## 📝 What I Learned
 
